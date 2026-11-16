@@ -1,4 +1,4 @@
-# Hi, I'm Julius 👋
+# Hi, I'm Julius
 
 Computer Science (AP degree) student at KEA, Copenhagen. I mostly build backend systems in **Java and Spring Boot**, and I'm currently looking for an **internship in software development**.
 
